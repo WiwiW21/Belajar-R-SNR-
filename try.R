@@ -14,3 +14,18 @@ install_paket(paket)
 library
 
 sebuah_data
+
+jml_siswa = 10 + 17
+dataKedua = 78 * 175
+
+
+
+
+
+
+
+
+
+
+
+
